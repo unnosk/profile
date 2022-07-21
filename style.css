@@ -10,18 +10,15 @@ body {
   background-color: #DAB88B;
 }
 
-.navbar-lewagon {
-  display: flex;
-  justify-content: space-between;
-  background: #FDF6EC;
+.gnav{
+  background-color: gray;
 }
-
-.navbar-lewagon .navbar-collapse {
-  flex-grow: 0;
+.gnav ul{
+  overflow: hidden;
 }
-
-.navbar-lewagon .navbar-brand img {
-  width: 40px;
+.gnav li{
+  float: left;
+  width: 200px;
 }
 
 .img-circle{
