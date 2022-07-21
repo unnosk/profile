@@ -75,6 +75,7 @@ h2{
   height: 100%;
   width: 120px;
   object-fit: cover;
+  display: center;
 }
 
 .card-product h2 {
@@ -96,6 +97,10 @@ h2{
   padding: 16px;
 }
 
+.skill{
+  display: left;
+  font-size: 20px;
+}
 
 /* .sakura {
   position: absolute;
