@@ -10,13 +10,15 @@ body {
   background-color: #DAB88B;
 }
 
-.header{
+.navbar{
   border-bottom: solid;
   justify-content: space-between;
+  background: white;
 }
+
 .navbar-lewagon {
   justify-content: space-between;
-  background: white;
+
 }
 
 .navbar-lewagon .navbar-collapse {
