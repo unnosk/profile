@@ -7,7 +7,7 @@ body {
   font-size: 15px;
   padding: 2%;
   text-align: center;
-  background-color: #FF9292;
+  background-color: #DAB88B;
 }
 
 .img-circle{
@@ -28,7 +28,7 @@ h2{
   font-weight: 100; /* if you want the light version */
   font-size: 60px;
   text-align: center;
-  background-color: #FFDCDC;
+  background-color: #F3E9DD;
   margin-left: 10px;
   margin-right: 10px;
   margin-top: 10px;
@@ -43,7 +43,7 @@ h2{
   border-radius: 50%;
 }
 .card{
-  background-color: #FFB4B4;
+  background-color: #FDF6EC;
   padding: 10%;
   margin: 80px;
   font-size: 50px;
@@ -61,7 +61,7 @@ h2{
 .icon-social{
   font-size: 50px;
   vertical-align: middle;
-  color: #FF616D;
+  color: #B7CADB;
 }
 
 .card-product {
