@@ -10,16 +10,24 @@ body {
   background-color: #DAB88B;
 }
 
-.gnav{
-  background-color: gray;
+.header{
+  border-bottom: solid;
+  justify-content: space-between;
 }
-.gnav ul{
-  overflow: hidden;
+.navbar-lewagon {
+  justify-content: space-between;
+  background: white;
 }
-.gnav li{
-  float: left;
-  width: 200px;
+
+.navbar-lewagon .navbar-collapse {
+  flex-grow: 0;
+
 }
+
+.navbar-lewagon .navbar-brand img {
+  width: 40px;
+}
+
 
 .img-circle{
   width: 60px;
