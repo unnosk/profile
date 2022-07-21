@@ -10,25 +10,21 @@ body {
   background-color: #DAB88B;
 }
 
-.navbar{
-  border-bottom: solid;
-  justify-content: space-between;
-  background: white;
-}
-
 .navbar-lewagon {
+  display: flex;
   justify-content: space-between;
-
+  background: #FDF6EC;
+  ;
 }
 
 .navbar-lewagon .navbar-collapse {
   flex-grow: 0;
-
 }
 
 .navbar-lewagon .navbar-brand img {
   width: 40px;
 }
+
 
 
 .img-circle{
