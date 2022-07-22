@@ -10,11 +10,13 @@ body {
   background-color: #DAB88B;
 }
 
+.navbar{
+  margin: 0px;
+}
 .navbar-lewagon {
   display: flex;
   justify-content: space-between;
   background: #FDF6EC;
-  margin: 0px;
 }
 
 .navbar-lewagon .navbar-collapse {
